@@ -4,15 +4,21 @@ namespace Calculator
 {
     class Program
     {
+        private static double Sum(double x, double y)
+        {
+            return x + y;
+        }
+
         public static double Operation(double number1, double number2, string value)
         {
             double result = double.NaN; // definir la valeur par defaut de result qui n'est pas un nombre 
-
+  
             switch (value)
             {
                 case "a":
                     // Console.WriteLine($"votre resultat : {number1} + {number2} = {number1 + number2}");
-                    result = number1 + number2;
+
+                    result = Sum(number1, number2);
                     break;
                 case "s":
                     //Console.WriteLine($"votre resultat : {number1} - {number2} = {number1 - number2}");
