@@ -1,0 +1,13 @@
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\bin\Debug\netcoreapp3.1\Programme_Fichiers.exe
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\bin\Debug\netcoreapp3.1\Programme_Fichiers.deps.json
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\bin\Debug\netcoreapp3.1\Programme_Fichiers.runtimeconfig.json
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\bin\Debug\netcoreapp3.1\Programme_Fichiers.runtimeconfig.dev.json
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\bin\Debug\netcoreapp3.1\Programme_Fichiers.dll
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\bin\Debug\netcoreapp3.1\Programme_Fichiers.pdb
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\obj\Debug\netcoreapp3.1\Programme_Fichiers.csprojAssemblyReference.cache
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\obj\Debug\netcoreapp3.1\Programme_Fichiers.AssemblyInfoInputs.cache
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\obj\Debug\netcoreapp3.1\Programme_Fichiers.AssemblyInfo.cs
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\obj\Debug\netcoreapp3.1\Programme_Fichiers.csproj.CoreCompileInputs.cache
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\obj\Debug\netcoreapp3.1\Programme_Fichiers.dll
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\obj\Debug\netcoreapp3.1\Programme_Fichiers.pdb
+D:\csharp\TD\TD1\Programme_Fichiers\Programme_Fichiers\obj\Debug\netcoreapp3.1\Programme_Fichiers.genruntimeconfig.cache
